@@ -29,3 +29,8 @@
 
 #### Day 5
 - Pioneras developers profile page [pull request](https://github.com/NavePionera/navepionera.github.io/pull/1)
+
+#### Day 6
+- Freecodecamp Tribute Page project. View revisions for June 26.
+[Gist](https://gist.github.com/angelitaooo/cf789687f02a1d59361c21d4805876c8/revisions)
+- [Tribute page codepen](http://codepen.io/angelitaooo/pen/KMawOm)
