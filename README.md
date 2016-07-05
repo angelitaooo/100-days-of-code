@@ -55,3 +55,9 @@
 - Split Strings with split	[Link](https://www.freecodecamp.com/challenges/Split%20Strings%20with%20split?solution=%0Avar%20string%20%3D%20%22Split%20me%20into%20an%20array%22%3B%0Avar%20array%20%3D%20%5B%5D%3B%0A%0A%2F%2F%20Only%20change%20code%20below%20this%20line.%0A%0Aarray%20%3D%20string.split(%27%20%27)%3B%0A)
 - Join Strings with join	[Link](https://www.freecodecamp.com/challenges/Join%20Strings%20with%20join?solution=%0Avar%20joinMe%20%3D%20%5B%22Split%22%2C%22me%22%2C%22into%22%2C%22an%22%2C%22array%22%5D%3B%0Avar%20joinedString%20%3D%20%27%27%3B%0A%0A%2F%2F%20Only%20change%20code%20below%20this%20line.%0A%0AjoinedString%20%3D%20joinMe.join(%22%20%22)%3B%0A)
 - Get Set for our Algorithm Challenges [Link](https://www.freecodecamp.com/challenges/Get%20Set%20for%20our%20Algorithm%20Challenges)
+
+#### Day 10
+- Introduction to objects, We've come a long, long...[Link to Codecademy](https://gist.github.com/23eb9587126cc44e61b5a1b9db29ce20)
+- Introduction to objects, Through the hard times... [Link to Codecademy](https://gist.github.com/aa30cd1ded3b6590a4ffb8027f813456)
+- Introduction to objects, ...And the good! [Link to Codecademy](https://gist.github.com/5a7abe5aad3d3e7ccf7772b6202e65c0)
+
