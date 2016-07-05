@@ -57,7 +57,7 @@
 - Get Set for our Algorithm Challenges [Link](https://www.freecodecamp.com/challenges/Get%20Set%20for%20our%20Algorithm%20Challenges)
 
 #### Day 10
-- Introduction to objects, We've come a long, long...[Link to Codecademy](https://gist.github.com/23eb9587126cc44e61b5a1b9db29ce20)
-- Introduction to objects, Through the hard times... [Link to Codecademy](https://gist.github.com/aa30cd1ded3b6590a4ffb8027f813456)
-- Introduction to objects, ...And the good! [Link to Codecademy](https://gist.github.com/5a7abe5aad3d3e7ccf7772b6202e65c0)
+- Introduction to objects, We've come a long, long...[Link to Gist](https://gist.github.com/23eb9587126cc44e61b5a1b9db29ce20)
+- Introduction to objects, Through the hard times... [Link to Gist](https://gist.github.com/aa30cd1ded3b6590a4ffb8027f813456)
+- Introduction to objects, ...And the good! [Link to Gist](https://gist.github.com/5a7abe5aad3d3e7ccf7772b6202e65c0)
 
