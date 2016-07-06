@@ -61,3 +61,25 @@
 - Introduction to objects, Through the hard times... [Link to Gist](https://gist.github.com/aa30cd1ded3b6590a4ffb8027f813456)
 - Introduction to objects, ...And the good! [Link to Gist](https://gist.github.com/5a7abe5aad3d3e7ccf7772b6202e65c0)
 
+#### Day 11
+- Codecademy, Introduction to objects, I have to celebrate you baby [Link to Gist](https://gist.github.com/71a1271576a60eccb8705e8343275951)
+-  Codecademy, Introduction to objects, Properties [Link to Gist](https://gist.github.com/1c71da9d6532ae46615fa4945399376d)
+-  Codecademy, Introduction to objects, Accessing Properties [Link to Gist](https://gist.github.com/738082f5793be63dd363da8b7ade94ae)
+-  Codecademy, Introduction to objects, Accessing Properties, Part 2[Link to Gist](https://gist.github.com/d5260c51fb2ad4b984a5a05198dc27b9)
+-  Codecademy, Introduction to objects, Another Way to Create [Link to Gist](https://gist.github.com/d6dfe94d4d0cf7ff05170b667b121b2e)
+-  Codecademy, Introduction to objects, Putting it all together[Link to Gist](https://gist.github.com/ad44982713b7ce581b679580f8abed00)
+-  Codecademy, Introduction to objects, More Practice Making Objects[Link to Gist](https://gist.github.com/5835b85bddf6db2f93201d87c7c75684)
+-  Codecademy, Introduction to objects, Function Review[Link to Gist](https://gist.github.com/1330040b78886dc3b41ece77ccc783c3)
+- Codecademy, Introduction to objects, Why Are Methods Important?[Link to Gist](https://gist.github.com/a974f87b119bd4083cd72284b91112a7)
+- Codecademy, Introduction to objects, The "this" Keyword [Link to Gist](https://gist.github.com/49213cd7978c4917b369ea6989b940c3)
+- Codecademy, Introduction to objects,"This" Works for Everyone
+ [Link to Gist](https://gist.github.com/fd29810212076eef8b5cb1e9f85de5f9)
+- Codecademy, Introduction to objects, Make Your Own Method [Link to Gist](https://gist.github.com/d359e223c38ab1882a038ff209da15f3)
+- Codecademy, Introduction to objects, More Kinds of Methods [Link to Gist](https://gist.github.com/9d4d4bd31d951091a4ff3eaf37a7eb87)
+- Codecademy, Introduction to objects, The Object Constructor
+ [Link to Gist](https://gist.github.com/3b4b68115bc47008be48ac8c96770f87)
+- Codecademy, Introduction to objects, Custom Constructors [Link to Gist](https://gist.github.com/ff6e6f7bd1dc87f8eabea25278810ab3)
+- Codecademy, Introduction to objects, Try it Out! [Link to Gist](https://gist.github.com/2bd8e9d60ebff590e243ce6e48f05646)
+- Codecademy, Introduction to objects, More Options [Link to Gist](https://gist.github.com/a029a43c9ae570355d07d9a03dda04b5)
+- Codecademy, Introduction to objects, Constructors With Methods [Link to Gist](https://gist.github.com/e5ef1ad2fc99e5929753266851e54695)
+- Codecademy, Introduction to objects, Constructors in Review [Link to Gist](https://gist.github.com/1485dccb775d7c5967105d9de52d8e98)
