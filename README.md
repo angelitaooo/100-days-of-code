@@ -83,3 +83,7 @@
 - Codecademy, Introduction to objects, More Options [Link to Gist](https://gist.github.com/a029a43c9ae570355d07d9a03dda04b5)
 - Codecademy, Introduction to objects, Constructors With Methods [Link to Gist](https://gist.github.com/e5ef1ad2fc99e5929753266851e54695)
 - Codecademy, Introduction to objects, Constructors in Review [Link to Gist](https://gist.github.com/1485dccb775d7c5967105d9de52d8e98)
+
+#### Day 12
+- Codecademy, Introduction to objects, Arrays of Objects [Link to Gist](https://gist.github.com/321c5e9a67dc9cd493458296a9816b4c)
+- Codecademy, Introduction to objects, Loop the loop [Link to Gist](https://gist.github.com/229d46127da3d815cea9baf270322c0a)
