@@ -97,3 +97,16 @@
  [Link to Gist](https://gist.github.com/144d09dcfee8b3c03e6bc99d5cabafcc)
 - Codecademy, Introduction to objects, Customizing Constructors [Link to Gist](https://gist.github.com/95b30c2f3e9ce25e424ea172b5d7a975)
 - Codecademy, Introduction to objects, Methods [Link to Gist](https://gist.github.com/0e669d3215b776f4edce2ca43c6bbc1b)
+
+#### Day 14
+- Codecademy, Building an Address Book, Digitizing People
+ [Link to Gist](https://gist.github.com/dcbe2282f27a4f9d7ab57ac03ba84365)
+- Codecademy, Building an Address Book, More People
+ [Link to Gist](https://gist.github.com/922865d3869b9487ddb78de84c046321)
+- Codecademy, Building an Address Book, Displaying People
+ [Link to Gist](https://gist.github.com/3830135cea5aa1cf9ecedee6720bf62c)
+- Codecademy, Building an Address Book, Listing Everybody
+ [Link to Gist](https://gist.github.com/3b5e64585a06120780172b512874e3b0)
+- Codecademy, Building an Address Book, Finding that Special Someone
+ [Link to Gist](https://gist.github.com/367dd3d050b07127504f367220ca0d97)
+- Codecademy, Building an Address Book, We Made a Friend! [Link to Gist](https://gist.github.com/c77a1847d46d1049ff4aef19031e5b0a)
