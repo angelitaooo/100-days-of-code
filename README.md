@@ -135,3 +135,17 @@ Codecademy, Introduction to Objects II:
 - Marching Penguins [Link to Gist](https://gist.github.com/e169a759624915675ee7eefdef9ab599)
 - DRY Penguins [Link to Gist](https://gist.github.com/2aabcda51ba1c9241c7cf95c96d4bf45)
 - Black (and White) Penguin Magic [Link to Gist](https://gist.github.com/b080f5b0a020ea4be10c61465571ff31)
+
+#### Day 17
+Codecademy, Introduction to Objects II:
+- Penguins, Properties, and the Prototype [Link to Gist](https://gist.github.com/ccd5005a80ec69144db09e4a09f1c58a)
+- Up the Food-I-mean-Prototype Chain [Link to Gist](https://gist.github.com/58fd5b2852a42c86bad8f00b7aba4e42)
+- Open to the Public [Link to Gist](https://gist.github.com/9500ab5a56af74926ce99d55f1c28f78)
+- Private Variables [Link to Gist](https://gist.github.com/2acda2836895f5c3e40b069fd0dd02f8)
+- Accessing Private Variables [Link to Gist](https://gist.github.com/73221d2d6861f6b62a4840183d665e51)
+- Private Methods [Link to Gist](https://gist.github.com/7e17e8216a71d642b05fbc49128aa395)
+- Passing Arguments [Link to Gist](https://gist.github.com/cce18ea59481f4ec1913e2c9c222ab05)
+- Looks For-In To Me [Link to Gist](https://gist.github.com/7f55f2d3e5bc004c814dd4915dc92c8e)
+- Hello? Yes, This is Dog [Link to Gist](https://gist.github.com/6db4ece95d3e1f2e0179fc36b36b6abd)
+- So Meta I Can't Take It! [Link to Gist](https://gist.github.com/6d60522432796df2d5290ec230f354a3)
+- Private Eye [Link to Gist](https://gist.github.com/c918a3560975a6ef3e84afc292f282e6)
