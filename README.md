@@ -110,3 +110,28 @@
 - Codecademy, Building an Address Book, Finding that Special Someone
  [Link to Gist](https://gist.github.com/367dd3d050b07127504f367220ca0d97)
 - Codecademy, Building an Address Book, We Made a Friend! [Link to Gist](https://gist.github.com/c77a1847d46d1049ff4aef19031e5b0a)
+
+#### Day 15
+Codecademy, Introduction to Objects II:
+- An Objective Review [Link to Gist](https://gist.github.com/7f43d9493ca6785ec28776e89a4915bb)
+- Fun with Functions [Link to Gist](https://gist.github.com/3956cb2576e357889c7d30e533fdcf06)
+- Literally Speaking [Link to Gist](https://gist.github.com/23ba0c93227cc7adc8d1d3251b0690e7)
+- Can I See Your References? [Link to Gist](https://gist.github.com/8755c2772021e9b92785c557a67b2647)
+- Who's in Your Bracket? [Link to Gist](https://gist.github.com/c81b55bda29406600a8a430430fd23e4)
+- I.D., Please [Link to Gist](https://gist.github.com/7f158c828500249a43ac2c1871d27328)
+- Know Thyself [Link to Gist](https://gist.github.com/8a363e9dd9e44b639976d557f541a418)
+- Dressed to Impress [Link to Gist](https://gist.github.com/18fc8c5da2728e3849ea20a3ef4072bd)
+- Getting IN-timate [Link to Gist](https://gist.github.com/fcd885f1848152d0761fc1c8c2de0aef)
+- List ALL the Properties! [Link to Gist](https://gist.github.com/b6fc8cc6013876fb8e75a8a22b4fd60f)
+
+#### Day 16
+Codecademy, Introduction to Objects II:
+- Class is in Session [Link to Gist](https://gist.github.com/8e50a9a6b0d00f31e2cf9d5f3a3bbc71)
+- Teach Snoopy[Link to Gist](https://gist.github.com/858ef8d26b32c9de4b6a6890354beb67)
+- How do Classes Help Us? [Link to Gist](https://gist.github.com/223cceef6c76839a319b53a71b56eaf3)
+- Prototype to the Rescue [Link to Gist](https://gist.github.com/d5d64b07b69d0438a020dc22e9c4eb1e)
+- Prototype Practice [Link to Gist](https://gist.github.com/cb917fbfe8d3540da177ca8dd992fe1d)
+- It's All in the Genes [Link to Gist](https://gist.github.com/aead803fe7051df3094007c7ea5be800)
+- Marching Penguins [Link to Gist](https://gist.github.com/e169a759624915675ee7eefdef9ab599)
+- DRY Penguins [Link to Gist](https://gist.github.com/2aabcda51ba1c9241c7cf95c96d4bf45)
+- Black (and White) Penguin Magic [Link to Gist](https://gist.github.com/b080f5b0a020ea4be10c61465571ff31)
