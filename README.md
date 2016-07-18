@@ -149,3 +149,6 @@ Codecademy, Introduction to Objects II:
 - Hello? Yes, This is Dog [Link to Gist](https://gist.github.com/6db4ece95d3e1f2e0179fc36b36b6abd)
 - So Meta I Can't Take It! [Link to Gist](https://gist.github.com/6d60522432796df2d5290ec230f354a3)
 - Private Eye [Link to Gist](https://gist.github.com/c918a3560975a6ef3e84afc292f282e6)
+
+#### Day 17
+Codecademy jQuery - Modifying HTML Elements [Link to Gist](https://gist.github.com/codecademydev/0c72d33e5b1e5daf7a6062cfd64147ca)
